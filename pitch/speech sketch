@@ -14,7 +14,7 @@ We just described blockchain technology. And i know that banks dont like it, bec
 Slide 4:
 
 What is a smart contract? In simple words: We build on existing blockchain ecosystem, our “Code”. We decide the functionalities! We get Control!
-In my project I created 3 smart contracts on blockchain Linea, 
+In my project I created 3 smart contracts on blockchain AIA Chain, 
 EurBoC – Euro on blockchain Fiat Pegged
 Real-Estates - NFT
 and Real-Estate-Marketplace
@@ -78,7 +78,7 @@ and ownership of real estates still being a piece of paper! we are in 2024 and t
 
 ...
 
-3 smart contracts on blockchain - eurboc, realestatenft, marketplace. What is smart contract?! (explain it simple) - its building on existing blockchain, adding our functionalities. Build on linea blockchain for low fee cost and fast transactions, environmental friendly.
+3 smart contracts on blockchain - eurboc, realestatenft, marketplace. What is smart contract?! (explain it simple) - its building on existing blockchain, adding our functionalities. Build on AIA Chain blockchain for low fee cost and fast transactions, environmental friendly.
 
 eurboc - smart contract on the blockchain, keeping the benefits of the blockchain but we still centralize token have control over the eurboc, can mint burn pause, and most important verify user from platform, in order to receive and send eurboc you must be verified within the platform, so you kyc. its fiat pegged- means for 1 eurboc, there is 1euro reserved in bank of cyprus.
 
@@ -90,7 +90,7 @@ Keep in mind, I cant transfer eurboc or ownership nft to wallets that are not ve
 
 
 
-The whole project I made it within the hackathon, in few days.
+
 
 
 final pitch:
