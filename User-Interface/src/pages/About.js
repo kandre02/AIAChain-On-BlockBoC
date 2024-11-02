@@ -22,20 +22,20 @@ function About() {
             <ul className="contracts">
                 <li>
                     <strong>EurBoC Stablecoin (EurBoC)</strong> – Our fiat-pegged stablecoin contract: 
-                    <a href="https://lineascan.build/address/0xd4aaf6db249bfea8be5b34fd719029df56e279a8#code" target="_blank" rel="noopener noreferrer">
-                        View on LineaScan
+                    <a href="https://testnet.aiascan.com/token/0x46a60ED30B1Ff8f99bb773Bae217221c7CE19e02?tab=contract" target="_blank" rel="noopener noreferrer">
+                        View on AIA Chain
                     </a>
                 </li>
                 <li>
                     <strong>RealEstateNFT</strong> – This contract tokenizes real estate assets as NFTs: 
-                    <a href="https://lineascan.build/address/0x599f2b7407d4976fb25358e9d79a639ea251c2ad#code" target="_blank" rel="noopener noreferrer">
-                        View on LineaScan
+                    <a href="https://testnet.aiascan.com/token/0xA37831EE6E78bAEfDBaB3A2493C9f418258e18e4?tab=contract" target="_blank" rel="noopener noreferrer">
+                        View on AIA Chain
                     </a>
                 </li>
                 <li>
                     <strong>Real Estate Marketplace</strong> – A decentralized platform to buy and sell tokenized properties:
-                    <a href="https://lineascan.build/address/0x3dCaF589421F5Dc08cE20C6Dce95F9337530CFCF" target="_blank" rel="noopener noreferrer">
-                        View on LineaScan
+                    <a href="https://testnet.aiascan.com/address/0x0643E44f5772d1b369bDDe5c5201Bd85533F55dc?tab=contract" target="_blank" rel="noopener noreferrer">
+                        View on AIA Chain
                     </a>
                 </li>
             </ul>
